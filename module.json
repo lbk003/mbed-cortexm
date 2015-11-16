@@ -1,0 +1,26 @@
+{
+  "name": "blinky",
+  "version": "1.0.0",
+  "description": "Balwinder's Blinky",
+  "keywords": [
+    "mbed",
+    "led",
+    "firstprogram"
+  ],
+  "author": "Balwinder Kaur",
+  "homepage": "",
+  "repository": {
+    "url": "git@github.com:lbk003/mbed-cortexm.git",
+    "type": "git"
+  },
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {
+    "mbed-drivers": "~0.11.2"
+  },
+  "bin": "./source"
+}
